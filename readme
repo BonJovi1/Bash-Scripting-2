@@ -1,0 +1,1 @@
+Q1) To print the allowed arguments, I have printed everything from the 'DESCRIPTION' section onwards in the man page of the command. An alternative could be "grep -" which would print all words in the man page containing '-' i.e all the flags of a command would be shown.
